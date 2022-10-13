@@ -1,5 +1,5 @@
-##Portafolio Johann Ttito
-###Programador .Net
+## Portafolio Johann Ttito
+### Programador .Net
 
 El presente portafolio tiene como finalidad demostrar conocimientos previos a la rama escogida de mi carrera.
   
